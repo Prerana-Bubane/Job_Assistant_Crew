@@ -2,7 +2,7 @@
 
 An autonomous multi-agent system built with **CrewAI**, **Google Gemini**, and **Streamlit** that automates the end-to-end job application preparation lifecycle.
 
-https://jobassistantcrew-hr26msjanhiyfddmjcxbvq.streamlit.app/
+## LIVE Demo :( https://jobassistantcrew-hr26msjanhiyfddmjcxbvq.streamlit.app/)
 
 ## 🏗️ Architecture & Agent Pipeline
 
